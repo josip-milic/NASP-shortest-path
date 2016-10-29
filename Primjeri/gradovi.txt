@@ -1,0 +1,42 @@
+﻿Zagreb;Varaždin;87
+Zagreb;Bjelovar;84
+Zagreb;Kutina;83
+Zagreb;Karlovac;53
+Zagreb;Samobor;24
+Bjelovar;Daruvar;53
+Daruvar;Požega;68
+Kutina;Požega;98
+Kutina;Slavonski Brod;115
+Požega;Slavonski Brod;42
+Slavonski Brod;Đakovo;95
+Slavonski Brod;Županja;65
+Đakovo;Osijek;50
+Osijek;Vinkovci;41
+Đakovo;Vinkovci;38
+Vinkovci;Vukovar;20
+Karlovac;Rijeka;113
+Rijeka;Opatija;13
+Opatija;Pazin;48
+Pazin;Pula;54
+Pazin;Rovinj;37
+Pazin;Poreč;32
+Pula;Poreč;51
+Rovinj;Poreč;34
+Karlovac;Gospić;152
+Karlovac;Zadar;238
+Gospić;Knin;104
+Zadar;Knin;110
+Zadar;Split;158
+Knin;Split;86
+Split;Dubrovnik;229
+Zagreb;Sisak;59
+Zagreb;Velika Gorica;19
+Daruvar;Virovitica;48
+Pitomača;Virovitica;25
+Bjelovar;Pitomača;47
+Virovitica;Slatina;31
+Daruvar;Slatina;59
+Slatina;Našice;45
+Našice;Osijek;53
+Našice;Đakovo;35
+Đakovo;Županja;65

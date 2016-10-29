@@ -1,0 +1,46 @@
+	digraph {
+		Zagreb -> Varaždin[label="87",weight="87"];
+		Zagreb -> Bjelovar[label="84",weight="84",color=red];
+		Zagreb -> Kutina[label="83",weight="83"];
+		Zagreb -> Karlovac[label="53",weight="53"];
+		Zagreb -> Samobor[label="24",weight="24"];
+		Bjelovar -> Daruvar[label="53",weight="53"];
+		Daruvar -> Požega[label="68",weight="68"];
+		Kutina -> Požega[label="98",weight="98"];
+		Kutina -> Slavonski_Brod[label="115",weight="115"];
+		Požega -> Slavonski_Brod[label="42",weight="42"];
+		Slavonski_Brod -> Đakovo[label="95",weight="95"];
+		Slavonski_Brod -> Županja[label="65",weight="65"];
+		Đakovo -> Osijek[label="50",weight="50"];
+		Osijek -> Vinkovci[label="41",weight="41"];
+		Đakovo -> Vinkovci[label="38",weight="38"];
+		Vinkovci -> Vukovar[label="20",weight="20"];
+		Karlovac -> Rijeka[label="113",weight="113"];
+		Rijeka -> Opatija[label="13",weight="13"];
+		Opatija -> Pazin[label="48",weight="48"];
+		Pazin -> Pula[label="54",weight="54"];
+		Pazin -> Rovinj[label="37",weight="37"];
+		Pazin -> Poreč[label="32",weight="32"];
+		Pula -> Poreč[label="51",weight="51"];
+		Rovinj -> Poreč[label="34",weight="34"];
+		Karlovac -> Gospić[label="152",weight="152"];
+		Karlovac -> Zadar[label="238",weight="238"];
+		Gospić -> Knin[label="104",weight="104"];
+		Zadar -> Knin[label="110",weight="110"];
+		Zadar -> Split[label="158",weight="158"];
+		Knin -> Split[label="86",weight="86"];
+		Split -> Dubrovnik[label="229",weight="229"];
+		Zagreb -> Sisak[label="59",weight="59"];
+		Zagreb -> Velika_Gorica[label="19",weight="19"];
+		Daruvar -> Virovitica[label="48",weight="48"];
+		Pitomača -> Virovitica[label="25",weight="25"];
+		Bjelovar -> Pitomača[label="47",weight="47"];
+		Virovitica -> Slatina[label="31",weight="31"];
+		Daruvar -> Slatina[label="59",weight="59"];
+		Slatina -> Našice[label="45",weight="45"];
+		Našice -> Osijek[label="53",weight="53"];
+		Našice -> Đakovo[label="35",weight="35"];
+		Đakovo -> Županja[label="65",weight="65"];
+
+	}
+

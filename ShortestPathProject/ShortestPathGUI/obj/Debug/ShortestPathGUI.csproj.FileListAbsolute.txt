@@ -1,0 +1,9 @@
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\bin\Debug\ShortestPathGUI.exe.config
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\bin\Debug\ShortestPathGUI.exe
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\bin\Debug\ShortestPathGUI.pdb
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\obj\Debug\ShortestPathGUI.csprojResolveAssemblyReference.cache
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\obj\Debug\ShortestPathGUI.Properties.Resources.resources
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\obj\Debug\ShortestPathGUI.csproj.GenerateResource.Cache
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\obj\Debug\ShortestPathGUI.exe
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\obj\Debug\ShortestPathGUI.pdb
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathGUI\obj\Debug\ShortestPath.ShortestPathForm.resources

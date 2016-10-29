@@ -1,0 +1,8 @@
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathProject\bin\Debug\ShortestPathProject.exe.config
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathProject\bin\Debug\ShortestPathProject.exe
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathProject\bin\Debug\ShortestPathProject.pdb
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathProject\obj\Debug\ShortestPathProject.csprojResolveAssemblyReference.cache
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathProject\obj\Debug\ShortestPathProject.Properties.Resources.resources
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathProject\obj\Debug\ShortestPathProject.csproj.GenerateResource.Cache
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathProject\obj\Debug\ShortestPathProject.exe
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathProject\obj\Debug\ShortestPathProject.pdb

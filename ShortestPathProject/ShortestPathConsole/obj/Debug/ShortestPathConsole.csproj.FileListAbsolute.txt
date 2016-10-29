@@ -1,0 +1,6 @@
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathConsole\bin\Debug\ShortestPathConsole.exe.config
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathConsole\bin\Debug\ShortestPathConsole.exe
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathConsole\bin\Debug\ShortestPathConsole.pdb
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathConsole\obj\Debug\ShortestPathConsole.exe
+c:\users\josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathConsole\obj\Debug\ShortestPathConsole.pdb
+C:\Users\Josip\documents\visual studio 2015\Projects\ShortestPathProject\ShortestPathConsole\obj\Debug\ShortestPathConsole.csprojResolveAssemblyReference.cache
